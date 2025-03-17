@@ -1,0 +1,13 @@
+:root{
+  --border-section: hsl(var(--verde-cielo-h), var(--verde-cielo-s), 40%, 0.2);
+}
+
+.menu-top {
+  border-bottom: 3px solid var(--border-section);
+  background-color: rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(5px);
+}
+
+.footer {
+  border-top: 3px solid var(--border-section);
+}
