@@ -1,8 +1,7 @@
 {
-  "name": "client",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://fyxtokentech.github.io/frontend-fyxtoken/",
+  "name": "@fyxtoken/frontend",
+  "version": "1.0.0",
+  "homepage": ".",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
